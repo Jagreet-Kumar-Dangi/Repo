@@ -1,4 +1,3 @@
 # Repo
 Testing for other project
-Psedo Repo
-passed
+test case passed
