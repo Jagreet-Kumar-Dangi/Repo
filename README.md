@@ -1,3 +1,3 @@
 # Repo
 Testing for other project
-test case passed
+all test cases passed
