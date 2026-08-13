@@ -1,4 +1,4 @@
 # Repo
 Testing for other project
 all test cases passed
-train testing
+training and testing pass
